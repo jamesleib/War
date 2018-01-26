@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Construction.cs" />
      <Compile Include="Assets\Manufacture.cs" />
      <Compile Include="Assets\Research.cs" />
      <Compile Include="Assets\ResearchWeapons.cs" />
